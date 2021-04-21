@@ -1,5 +1,5 @@
-import 'package:DevQuiz/core/app_colors.dart';
-import 'package:DevQuiz/core/core.dart';
+import 'package:devquiz/core/app_colors.dart';
+import 'package:devquiz/core/core.dart';
 import 'package:flutter/material.dart';
 
 class ChartWidget extends StatelessWidget {
